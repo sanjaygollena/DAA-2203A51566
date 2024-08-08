@@ -7,3 +7,4 @@ https://github.com/sanjaygollena/DAA-2203A51566/blob/main/binaray%20search.c
 https://github.com/sanjaygollena/DAA-2203A51566/blob/main/binaray%20search.c
 https://github.com/sanjaygollena/DAA-2203A51566/blob/main/selectionSort.c
 https://github.com/sanjaygollena/DAA-2203A51566/blob/main/selectionSort.c
+https://github.com/sanjaygollena/DAA-2203A51566/blob/main/week-1-3(daa).c
